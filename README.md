@@ -1,7 +1,7 @@
 HTML Entity Lookup
 ==================
 
-This is an Alfred 2 version of Remy's Sharp [excellent tool](http://leftlogic.com/projects/entity-lookup/).
+This is an Alfred 4 version of Remy's Sharp [excellent tool](http://leftlogic.com/projects/entity-lookup/).
 
 
 Installation

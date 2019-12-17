@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>ajgon.html-entity-lookup</string>
+	<string>npostulart.html-entity-lookup</string>
 	<key>connections</key>
 	<dict>
 		<key>BA61D2A7-CDC5-4DF6-A597-28B586FD82C4</key>
@@ -85,7 +85,7 @@ print en.results()</string>
 				<key>escaping</key>
 				<integer>127</integer>
 				<key>script</key>
-				<string>tell application "Alfred 2" to search "entity {query}"</string>
+				<string>tell application "Alfred 4" to search "entity {query}"</string>
 				<key>type</key>
 				<integer>6</integer>
 			</dict>
@@ -189,6 +189,6 @@ print Entities.details("{query}")</string>
 		</dict>
 	</dict>
 	<key>webaddress</key>
-	<string>https://github.com/ajgon/alfred2-html-entity-lookup</string>
+	<string>https://github.com/npostulart/alfred4-html-entity-lookup</string>
 </dict>
 </plist>
