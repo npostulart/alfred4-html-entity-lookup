@@ -7,8 +7,8 @@ This is an Alfred 4 version of Remy's Sharp [excellent tool](http://leftlogic.co
 Installation
 ------------
 
-- Download "[HTMLEntityLookup.alfredworkflow](https://github.com/ajgon/alfred2-html-entity-lookup/blob/master/HTMLEntityLookup.alfredworkflow?raw=true)" extension.
-- Double click the downloaded "HTMLEntityLookup.alfredworkflow" file to install. **Alfred 2 is required**
+- Download "[HTMLEntityLookup.alfredworkflow](https://github.com/npostulart/alfred4-html-entity-lookup/blob/master/HTMLEntityLookup.alfredworkflow?raw=true)" extension.
+- Double click the downloaded "HTMLEntityLookup.alfredworkflow" file to install. **Alfred 4 is required**
 
 
 Instructions
